@@ -1,5 +1,6 @@
 ---
 layout: post
+title:Anime
 ---
 # แนะนำอนิเมะ
 ## Quan Zhi Gao Shou (全职高手)
