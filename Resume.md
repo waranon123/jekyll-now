@@ -8,4 +8,4 @@ permalike: /resume      /
 - Hocword For Magician Education
 
 #Education
-- Bs Comsience
+- Bs.C. ComScience
