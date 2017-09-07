@@ -5,9 +5,6 @@ permalink: /about/
 ---
 
 Name : Waranon Puttarat
-Age : 21
-Date : 23/04/2539
-
 
 ### More Information
 
