@@ -8,7 +8,7 @@ permalink: /about/
 
 Name : Waranon Puttarat
 ### Facebook
-[Facebook](Mailto:https://www.facebook.com/EarthPuttarat.com)
+[Facebook](https://www.facebook.com/EarthPuttarat.com)
 
 ### More Information
 
