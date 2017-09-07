@@ -3,9 +3,9 @@ layout: page
 title: My Resume
 permalike: /resume      /
 ---
-#Experience
+# Experience
 - Hocword For Magician Education
 
-#Education
+# Education
 - Bs.C. ComScience
 - Pathumrat chawonsa School
